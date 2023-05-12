@@ -14,7 +14,7 @@ Below are are list of tools used, and the precise things were used for:
 
 - [Ion Icons](https://ionic.io/ionicons) for menu bar
 - [Icon8](https://icons8.com/) for animated icons and skills icons
-- [Animate CSS](https://animate.style/) for Jane Doe's bio text animation
+- [Animate CSS](https://animate.style/) for  bio text animation
 
 ## Technologies Used
 HTML5
